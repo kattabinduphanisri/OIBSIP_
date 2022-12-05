@@ -1,0 +1,25 @@
+body {
+    font-size: 25px;
+    line-height: 1.5;
+    padding: 1%;
+    background-color: #b59c89;
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    height: 350px;
+}
+
+h2 {
+    padding-left: 1%;
+}
+
+span {
+    color: red;
+}
